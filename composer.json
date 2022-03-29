@@ -4,12 +4,12 @@
     "type": "project",
     "license": "MIT",
     "support": {
-        "source": "https://github.com/laravel-zero/laravel-zero"
+        "source": "https://github.com/m-mubah/caseium"
     },
     "authors": [
         {
-            "name": "Nuno Maduro",
-            "email": "enunomaduro@gmail.com"
+            "name": "Mubah",
+            "email": "mohammed.mubaah@gmail.com"
         }
     ],
     "require": {
