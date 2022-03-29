@@ -9,7 +9,7 @@
 Navigate to project directory before typing the commands.
 
 ```bash
-php composer update
+composer update
 php caseium convert-case
 ```
 - this will prompt the user to input a string.
